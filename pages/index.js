@@ -1,5 +1,5 @@
 function HOME() {
-    return <h1>Um dia de cada vez!!!</h1>
+    return <h1>Cada bloco na estrada , use para contruir seu castelo!!!</h1>
 }
 
 export default HOME;
